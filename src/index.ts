@@ -3,4 +3,5 @@
 // import './weatherStation'
 // import './starbuzz'
 // import './textOutput'
-import './pizza'
+//import './pizza'
+import './singleton'
